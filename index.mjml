@@ -1,0 +1,475 @@
+<mjml>
+	<mj-body>
+		<mj-section
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding="40px 40px"
+		>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="500"
+					align="center"
+					color="#333333"
+				>
+					FIRE DESTROYER
+				</mj-text>
+				<mj-text
+					font-size="36px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Avtomatski gasilni aparati
+				</mj-text>
+				<mj-text
+					font-size="16px"
+					font-family="sans-serif"
+					font-weight="300"
+					align="center"
+					color="#333333"
+					padding-top="30px"
+					line-height="28px"
+				>
+					Sodobni avtomatski gasilni aparati, ki predstavljajo aktivno požarno
+					zaščito pri gašenju različnih vrst požarov.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Komu je naprava namenjena?
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			padding="0px 10px"
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+			<mj-column width="100%" background-color="#fec013" padding="10px 5px">
+				<mj-text
+					align="center"
+					font-weight="bold"
+					color="white"
+					font-size="14px"
+				>
+					GASILCEM
+				</mj-text>
+			</mj-column>
+
+			<mj-column width="100%" background-color="#87b14d" padding="10px 5px">
+				<mj-text
+					align="center"
+					font-weight="bold"
+					color="white"
+					font-size="14px"
+				>
+					INDUSTRIJI
+				</mj-text>
+			</mj-column>
+
+			<mj-column
+				width="100%"
+				background-color="#98d7e0"
+				border="20px"
+				padding="5px 5px"
+			>
+				<mj-text
+					align="center"
+					font-weight="bold"
+					color="white"
+					font-size="14px"
+					line-height="30px"
+				>
+					PROMETNEMU SEKTORJU
+				</mj-text>
+			</mj-column>
+			<mj-column width="10px" background-color="white"> </mj-column>
+
+			<mj-column width="100%" background-color="#f47d1f" padding="5px 5px">
+				<mj-text
+					align="center"
+					font-weight="bold"
+					color="white"
+					font-size="14px"
+					line-height="30px"
+				>
+					CIVILNEMU PREBIVALSTVU
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Okoliščine uporabe
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+			<mj-column>
+				<mj-button
+					background-color="white"
+					border="2px solid #87b14d"
+					color="black"
+					font-family="sans-serif"
+					font-weight="500"
+				>
+					V situacijah, ko na kraju požara ni nikogar
+				</mj-button>
+			</mj-column>
+			<mj-column>
+				<mj-button
+					background-color="white"
+					border="2px solid #87b14d"
+					color="black"
+					font-family="sans-serif"
+					font-weight="500"
+				>
+					V situacijah, ko gašenje z običajnimi gasilniki ni mogoče
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Kako naprava deluje?
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+			<mj-column>
+				<mj-text> 1. Plamen v napravi sproži varovalke </mj-text>
+				<mj-text> 2. Naprava samodejno sproži reakcijo </mj-text>
+				<mj-text> 3. Naprava razprši gasilno suho snov po prostoru </mj-text>
+				<mj-text> 4. Požar je pogašen </mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Vrste naprav
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-bottom="10px" background-color="#f6f6f6">
+			<mj-column>
+				<mj-text font-size="20px" font-family="sans-serif" font-weight="800">
+					Fire destroyer disk
+				</mj-text>
+				<mj-text font-size="18px" font-family="sans-serif" font-weight="600">
+					Aerosol tipa S
+				</mj-text>
+				<mj-text
+					font-size="14px"
+					font-family="sans-serif"
+					font-weight="400"
+					line-height="20px"
+				>
+					Primeren za industrijske elektro omare in serverje.
+				</mj-text>
+			</mj-column>
+			<mj-column>
+				<mj-button
+					href="https://www.youtube.com/watch?v=3ODzSQSfB28&authuser=0"
+					background-color="red"
+					vertical-align="middle"
+					padding-top="5%"
+				>
+					VIDEO
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-bottom="10px">
+		
+			</mj-column>
+			<mj-column>
+				<mj-text font-size="20px" font-family="sans-serif" font-weight="800">
+					Fire destroyer nalepka
+				</mj-text>
+				<mj-text font-size="18px" font-family="sans-serif" font-weight="600">
+					Aerosol tipa S
+				</mj-text>
+				<mj-text
+					font-size="14px"
+					font-family="sans-serif"
+					font-weight="400"
+					line-height="20px"
+				>
+					Primerna za manjše elektro omare.
+				</mj-text>
+			</mj-column>
+            	<mj-column padding-top="5%">
+				<mj-button
+					href="https://www.youtube.com/watch?v=BgQuWHFzET4&authuser=0"
+					background-color="red"
+					vertical-align="middle"
+				>
+					VIDEO
+				</mj-button>
+		</mj-section>
+		<mj-section padding-bottom="10px" background-color="#f6f6f6">
+			<mj-column>
+				<mj-text font-size="20px" font-family="sans-serif" font-weight="800">
+					Fire destroyer krogla
+				</mj-text>
+				<mj-text font-size="18px" font-family="sans-serif" font-weight="600">
+					Prah ABC
+				</mj-text>
+				<mj-text
+					font-size="14px"
+					font-family="sans-serif"
+					font-weight="400"
+					line-height="20px"
+				>
+					Primerna za različna področja industrijskih obratov, v kmetijstvu in v
+					gospodinjstvih.
+				</mj-text>
+			</mj-column>
+			<mj-column>
+				<mj-button
+					href="https://www.youtube.com/watch?v=84KDJnKsON0&authuser=0"
+					background-color="red"
+					vertical-align="middle"
+					padding-top="5%"
+				>
+					VIDEO
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			padding-bottom="10px"
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+		
+			<mj-column>
+				<mj-text font-size="20px" font-family="sans-serif" font-weight="800">
+					Fire destroyer disk
+				</mj-text>
+				<mj-text font-size="18px" font-family="sans-serif" font-weight="600">
+					Prah ABC
+				</mj-text>
+				<mj-text
+					font-size="14px"
+					font-family="sans-serif"
+					font-weight="400"
+					line-height="20px"
+				>
+					Primeren za območja motorjev vozil in plovil.
+				</mj-text>
+			</mj-column>
+            	<mj-column padding-top="5%">
+				<mj-button
+
+					href="https://www.youtube.com/watch?v=yJvXJaFTkqA&authuser=0"
+					background-color="red"
+					vertical-align="middle"
+				>
+					VIDEO
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Prednosti naših naprav
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+			<mj-column background-color="#98d7e0" padding="20px 5px">
+				<mj-text
+					font-family="sans-serif"
+					font-size="16px"
+					font-weight="600"
+					align="center"
+					color="#333333"
+				>
+					Lahke, prenosne in raznolikih dimenzij
+				</mj-text>
+
+				<mj-text
+					font-family="sans-serif"
+					font-size="16px"
+					font-weight="600"
+					align="center"
+					color="white"
+				>
+					Izredno hiter reakcijski čas (3 - 5 sekund)
+				</mj-text>
+
+				<mj-text
+					font-family="sans-serif"
+					font-size="16px"
+					font-weight="600"
+					align="center"
+					color="#333333"
+				>
+					Dolga življenjska doba (3 - 5 let)
+				</mj-text>
+
+				<mj-text
+					font-family="sans-serif"
+					font-size="16px"
+					font-weight="600"
+					align="center"
+					color="white"
+				>
+					Multifunkcionalnost
+				</mj-text>
+
+				<mj-text
+					font-family="sans-serif"
+					font-size="16px"
+					font-weight="600"
+					align="center"
+					color="#333333"
+				>
+					Okolju prijazno in neškodljivo ljudem
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Požarni razredi
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+			<mj-column>
+				<mj-button background-color="red"> A </mj-button>
+			</mj-column>
+			<mj-column>
+				<mj-button background-color="#f47d1f"> B </mj-button>
+			</mj-column>
+			<mj-column>
+				<mj-button background-color="#fec013"> C </mj-button>
+			</mj-column>
+			<mj-column>
+				<mj-button background-color="#87b14d"> F </mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Standardi in certifikati
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			border-bottom="1px solid rgba(234, 238, 240, 1)"
+			padding-bottom="40px"
+		>
+			<mj-column>
+				<mj-text
+					font-size="20px"
+					font-weight="400"
+					color="#333333"
+					font-family="sans-serif"
+				>
+					GA 602-2013, 2013/29/EU
+				</mj-text>
+				<mj-text
+					font-size="20px"
+					font-weight="400"
+					color="#333333"
+					font-family="sans-serif"
+				>
+					DIN EN 16263-5:2021-7
+				</mj-text>
+				<mj-text
+					font-size="20px"
+					font-weight="400"
+					color="#333333"
+					font-family="sans-serif"
+				>
+					CE
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="28px"
+					font-family="sans-serif"
+					font-weight="800"
+					align="center"
+					color="#333333"
+				>
+					Kontakt
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column>
+				<mj-text
+					font-size="20px"
+					font-weight="600"
+					color="#333333"
+					font-family="sans-serif"
+					align="center"
+				>
+					info@kuser-mont.com
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
